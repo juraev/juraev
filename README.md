@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![280350927-3abcfede-42f8-45f1-8b73-8e73cd3f7c2a](https://github.com/user-attachments/assets/01ebf3ed-e4d8-49e3-a608-37d7d34e5451)
 
 <!--
 **juraev/juraev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
